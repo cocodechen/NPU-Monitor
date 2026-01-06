@@ -5,8 +5,6 @@
 #include <vector>
 #include "npu_metrics.h"
 
-#define NPU_OK 0                  // DCMI 接口返回成功值
-
 /*底层信息采集*/
 class NPUImpl
 {
